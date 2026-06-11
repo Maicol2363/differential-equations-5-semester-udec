@@ -1,0 +1,1 @@
+![[Exam-R2-A1-S5DeLaEcuaciónAlMundoReal-Xpp.pdf|Exam-R2-A1-S5DeLaEcuaciónAlMundoReal-Xpp]]
