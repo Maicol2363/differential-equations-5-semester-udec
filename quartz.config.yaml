@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: maicol2363.github.io/differential-equations-5-semester-udec
+  baseUrl: maicol2363.github.io/differential-equations-5-semester-udec/
   ignorePatterns:
     - private
     - templates
